@@ -1,4 +1,6 @@
-This Temperature converter app was built modified and implemented by the members of this group
+## Temperature Converter 
+## About
+* This Temperature converter app was built modified and implemented by the members of group 9:
 This Tempetrature converter app coverts units from kelvin to celsius and to Farenheit with the units inputted best used with light mode
 The buiding of the app was headed by ONWUSON MIRACLE DANIEL and assisted by OKON ISRAEL
 The members of this group are as follows:
